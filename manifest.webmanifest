@@ -1,0 +1,12 @@
+{
+  "name": "paudom403",
+  "short_name": "paudom403",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
